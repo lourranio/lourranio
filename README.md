@@ -1,6 +1,7 @@
 ## BIO
 
 > 💜 I have been working as a system admin, suport, and developer since 2008, from 2012 to 2020 I worked with Windows Server, Oracle 11,Postgres, Debian, RedHat, CentOS, Vmware, PHP/WordPress, and now, did some projects on React Native, NodeJS, Typescript, Css. 
+> [ <img src="http://static.licdn.com/scds/common/u/images/logos/favicons/v1/16x16/favicon.ico" width="16" height="16"> <a href="https://www.linkedin.com/in/lourranio/">Linkedin</a> ] |
 
 > 🔭 <projeto-atual> React
 
@@ -20,6 +21,10 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
+[ <img src="https://www.redhat.com/profiles/rh/themes/redhatdotcom/favicon.ico" width="16" height="16"> <a href="https://www.redhat.com">RedHat</a> ]
+<code><img height="32" src="https://www.redhat.com/profiles/rh/themes/redhatdotcom/favicon.ico" alt="RedHat"/></code>
+
+
 
 ## ⭐ Informações sobre minha conta GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lourranio&show_icons=true)
