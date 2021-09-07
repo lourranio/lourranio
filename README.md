@@ -5,7 +5,7 @@
 
 > 🔭 <projeto-atual> React
 
-> 💬 <Formação> *Gradução* Sistemas de Informação. *Pos Graduação* em Segurança Computacional
+> 💬 <Formação> **Gradução** Sistemas de Informação. **Pos Graduação** em Segurança Computacional
 
 
 ## 🚀  Skills
@@ -26,7 +26,7 @@
 
 
 
-## ⭐ Informações sobre minha conta GitHub
+## ⭐ GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lourranio&show_icons=true)
 
 ## **Aplicações e Dados**
