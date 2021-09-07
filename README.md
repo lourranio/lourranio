@@ -4,10 +4,8 @@
 
 > 🔭 <projeto-atual> React
 
-> 💬 <mensagem> Lets Go.
-  
-🧐
-[![card](https://github-readme-stats.vercel.app/api?username=lourranio&theme=default)](https://github.com/lourranio/)
+> 💬 <Formação> *Gradução* Sistemas de Informação. *Pos Graduação* em Segurança Computacional
+
 
 ## 🚀  Skills
 
