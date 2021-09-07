@@ -60,6 +60,14 @@
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
   ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
+  
+
+<br/>
+<a href="https://github.com/lourranio">
+  <img height="180em" src="https://i.ibb.co/RYLFQXH/1627866549331.jpg" />
+</a>
+<br/>
+  
 <!-- 
 <br/>
 <a href="https://github.com/lourranio">
