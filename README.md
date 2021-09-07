@@ -21,8 +21,8 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
-[ <img src="https://www.redhat.com/profiles/rh/themes/redhatdotcom/favicon.ico" width="16" height="16"> <a href="https://www.redhat.com">RedHat</a> ]
 <code><img height="32" src="https://www.redhat.com/profiles/rh/themes/redhatdotcom/favicon.ico" alt="RedHat"/></code>
+<code><img height="32" src="https://www.favicon.cc/logo3d/899032.png" alt="Linux"/></code>
 
 
 
@@ -71,6 +71,6 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: lourranio](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lourranio/)](https://www.linkedin.com/in/lourranio/)
-<!--  [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
+[![Linkedin: lourranio](https://img.shields.io/badge/-lourranio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lourranio/)](https://www.linkedin.com/in/lourranio/)
+<!--  [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL) -->
 [![GitHub lourranio]( https://img.shields.io/github/followers/lourranio?label=follow&style=social)](https://github.com/lourranio/)
