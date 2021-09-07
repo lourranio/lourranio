@@ -2,9 +2,9 @@
 
 > 💜 I have been working as a system admin, suport, and developer since 2008, from 2012 to 2020 I worked with Windows Server, Oracle 11,Postgres, Debian, RedHat, CentOS, Vmware, PHP/WordPress, and now, did some projects on React Native, NodeJS, Typescript, Css. 
 
-[ <img src="http://static.licdn.com/scds/common/u/images/logos/favicons/v1/16x16/favicon.ico" width="16" height="16"> <a href="https://www.linkedin.com/in/lourranio/">lourranio</a> ] |
+[ <img src="http://static.licdn.com/scds/common/u/images/logos/favicons/v1/16x16/favicon.ico" width="16" height="16"> <a href="https://www.linkedin.com/in/lourranio/">lourranio</a> ] 
 
-> 🔭 <projeto-atual> React + Aws
+> 🔭 <projeto atual> React + Aws
 
 > 💬 <Formação> **Gradução** Sistemas de Informação. **Pós Graduação** em Segurança Computacional/Pentest/Owasp
   
