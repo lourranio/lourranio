@@ -4,7 +4,7 @@
 
 [ <img src="http://static.licdn.com/scds/common/u/images/logos/favicons/v1/16x16/favicon.ico" width="16" height="16"> <a href="https://www.linkedin.com/in/lourranio/">lourranio</a> ] 
 
-> 🔭 Projeto atual : React + Aws
+> 🔭 Projeto atual : React + Typescript + GraphQL + Aws(EKS, EC2, DynamoDB, Auto-Scaling, etc...)
 
 > 💬 Formação : **Gradução** Sistemas de Informação. **Pós Graduação** em Segurança Computacional/Pentest/Owasp
   
