@@ -93,3 +93,5 @@
   https://blog.rocketseat.com.br/terminal-com-oh-my-zsh-spaceship-dracula-e-mais/
   
   https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
+  
+  https://www.simform.com/blog/nodejs-use-case/
