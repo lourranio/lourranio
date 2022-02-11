@@ -87,3 +87,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL) 
 [![GitHub lourranio]( https://img.shields.io/github/followers/lourranio?label=follow&style=social)](https://github.com/lourranio/)
   --> 
+  
+  ## **LINKS **
+  
+  https://blog.rocketseat.com.br/terminal-com-oh-my-zsh-spaceship-dracula-e-mais/
+  
+  https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
