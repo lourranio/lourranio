@@ -4,11 +4,11 @@
 
 [ <img src="http://static.licdn.com/scds/common/u/images/logos/favicons/v1/16x16/favicon.ico" width="16" height="16"> <a href="https://www.linkedin.com/in/lourranio/">lourranio</a> ] 
 
-> 🔭 Projeto atual : OpenShift + Kubernets + github + Azure
-
 > 🔭 Projeto atual : Rancher + Ldap + Kubernets + OCI + Bastion
 > 
 > 🔭 Projeto anterior :  React + Typescript + GraphQL + Aws(EKS, EC2, DynamoDB, Auto-Scaling, etc...) + Consumo de API REST + Versionamento (GIT) + Testes unitários e teste de interfaces
+> 
+> 🔭 Projeto Parado : OpenShift + Kubernets + github + Azure
 
 
 
