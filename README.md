@@ -104,3 +104,11 @@
  ![alt](https://hostingrevelations.com/wp-content/uploads/2021/12/freenom-free-domain.jpg)
 
   www.freenom.com/
+  
+  ## **DESENHO DE REDE / ARQUITETURA**
+  
+    www.cloudcraft.co
+    
+     ![alt](https://global-uploads.webflow.com/57013820ae28654573965bf2/5f9a3f4698522c68f4d1aa8b_aws-architecture1-transparent.png)
+
+  
