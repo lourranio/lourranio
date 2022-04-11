@@ -109,6 +109,7 @@
   
     www.cloudcraft.co
     
-     ![alt](https://global-uploads.webflow.com/57013820ae28654573965bf2/5f9a3f4698522c68f4d1aa8b_aws-architecture1-transparent.png)
+   
+   ![alt](https://global-uploads.webflow.com/57013820ae28654573965bf2/5f9a3f4698522c68f4d1aa8b_aws-architecture1-transparent.png)
 
   
