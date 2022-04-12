@@ -113,3 +113,9 @@
    ![alt](https://global-uploads.webflow.com/57013820ae28654573965bf2/5f9a3f4698522c68f4d1aa8b_aws-architecture1-transparent.png)
 
   
+  ## What is your domain ?
+  
+  https://dev.to/madza/what-domain-extension-do-you-use-for-portfolio-52mj
+  
+  ![alt](https://www.bannerview.com/os/resources/media/domain-extensions-lrg.jpg)
+
